@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/yubaix/Mofetch/config"
+	"github.com/yubaix/mofetch/config"
 
 	"github.com/spf13/cobra"
 )
