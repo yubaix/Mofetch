@@ -5,8 +5,6 @@
 
 Neofetch-based app for movies!
 
-Heavily based off of [Mufetch](https://github.com/ashish0kumar/mufetch) by [Ashish Kumar](https://github.com/ashish0kumar), it is indicated in the files when some or all of the code for that file was taken from his project. Go check out his project, he deserves tons of credit.
-
 ## Features
 - Search for any movie with posters and detailed information
 - Customizable poster dimensions
@@ -53,4 +51,36 @@ mufetch --help
 6. Run ```mofetch auth``` and paste in your API key.
 7. Hit enter, and you're good to go!
 
-i will update this later
+The API key is stored in ~/.config/mofetch/config.yaml.
+
+## Usage 
+
+Searching for content can be done with ```mufetch search```
+This command has two flags:
+-verbose / -v toggles the verbose output during the search, with it set to off by default.
+-size / -s changes the size of the poster, this is an integer value between 20 and 50, and is 20 by default.
+Note that if you are searching for a movie with more than one word in the title, there must be dashes instead of whitespace (e.g ```the-brutalist``` instead of ```the brutalist```).
+
+## Contributing
+
+Contributions are always welcome! Whether you want to:
+
+- Report bugs or issues
+- Suggest new features
+- Improve the visual design
+- Enhance documentation
+- Submit code improvements
+
+Please feel free to open an issue or submit a pull request.
+
+## Dependencies
+
+- [**Cobra**](https://github.com/spf13/cobra) - CLI framework and command structure
+- [**Viper**](https://github.com/spf13/viper) - Configuration management
+- [**Imaging**](https://github.com/disintegration/imaging) - Image processing and resizing
+
+## Acknowledgements
+
+- Massive thanks to [Ashish Kumar](https://github.com/ashish0kumar), as I never would've been able to make this project without his Mufetch. He deserves more credit than I do, it's indicated in the code when some or all of the file was inspired by his project.
+- Based off [neofetch](https://github.com/dylanaraps/neofetch) for the initial concept
+- Thanks to [OMDB API]https://www.omdbapi.com/) for film metadata
