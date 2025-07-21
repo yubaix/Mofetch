@@ -46,7 +46,7 @@ mufetch --help
 3. Enter in your email and name, put anything in for 'Use'
 4. Click Submit
 5. Check your email for the API Key
-6. Run ```bash mofetch auth``` and paste in your API key.
+6. Run ```mofetch auth``` and paste in your API key.
 7. Hit enter, and you're good to go!
 
 i will update this later
