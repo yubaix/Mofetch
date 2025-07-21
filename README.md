@@ -56,9 +56,13 @@ The API key is stored in ~/.config/mofetch/config.yaml.
 ## Usage 
 
 Searching for content can be done with ```mufetch search```
+
 This command has two flags:
+
 -verbose / -v toggles the verbose output during the search, with it set to off by default.
+
 -size / -s changes the size of the poster, this is an integer value between 20 and 50, and is 20 by default.
+
 Note that if you are searching for a movie with more than one word in the title, there must be dashes instead of whitespace (e.g ```the-brutalist``` instead of ```the brutalist```).
 
 ## Contributing
