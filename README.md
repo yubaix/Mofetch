@@ -1,6 +1,6 @@
 # Mofetch
 <p align="center">
-<img src="./assets/mofetch.png" width="80%" />
+<img src="./assets/mofetch.jpg" width="80%" />
 </p>
 
 Neofetch-based app for movies!
