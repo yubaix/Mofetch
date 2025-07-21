@@ -4,10 +4,10 @@ Neofetch-based app for movies!
 Heavily based off of [Mufetch](https://github.com/ashish0kumar/mufetch) by [Ashish Kumar](https://github.com/ashish0kumar), it is indicated in the files when some or all of the code for that file was taken from his project. Go check out his project, he deserves tons of credit.
 
 ## Features
- Search for any movie with posters and detailed information
- Customizable poster dimensions
- Customizable amount of information displayed
- Cross-platform support, works on any computer
+- Search for any movie with posters and detailed information
+- Customizable poster dimensions
+- Customizable amount of information displayed
+- Cross-platform support, works on any computer
 
 ## Installation
 
