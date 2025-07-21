@@ -1,4 +1,4 @@
-# Mofetch
+<h1 align="center">mofetch</h1>
 <p align="center">
 <img src="./mofetch.jpg" width="80%" />
 </p>
