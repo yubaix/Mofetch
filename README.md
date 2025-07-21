@@ -35,7 +35,7 @@ esac
 
 ### Build from source
 ```bash
-git clone https://github.com/ashish0kumar/mufetch.git
+git clone https://github.com/yubaix/mofetch.git
 cd mufetch/
 go build
 sudo mv mufetch /usr/local/bin/
