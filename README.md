@@ -13,6 +13,8 @@ Neofetch-based app for movies!
 
 ## Installation
 
+There are no plans for this to be supported by ```go install```, as I tried but was unable to get it working. 
+
 ### Releases Tab
 Simply go to the releases tab on this page, and select the appropriate file for your system.
 
