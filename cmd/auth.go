@@ -17,12 +17,12 @@ var authCmd = &cobra.Command{
 	Long: `Set up your OMDB API credentials.
 
 You need to:
-1. Go to https://developer.spotify.com/dashboard
-2. Create a new app
-3. Copy your Client ID and Client Secret`,
+1. https://www.omdbapi.com/apikey.aspx
+2. Fill in your information and click submit
+3. Check your email for your API key.`,
 
 	Run: func(cmd *cobra.Command, args []string) {
-		fmt.Println("Spotify API Authentication Setup")
+		fmt.Println("OMDB API Authentication Setup")
 		fmt.Println()
 		fmt.Println("To get your OMDB API credentials:")
 		fmt.Println("1. Go to: https://www.omdbapi.com/apikey.aspx")
