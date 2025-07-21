@@ -83,4 +83,4 @@ Please feel free to open an issue or submit a pull request.
 
 - Massive thanks to [Ashish Kumar](https://github.com/ashish0kumar), as I never would've been able to make this project without his Mufetch. He deserves more credit than I do, it's indicated in the code when some or all of the file was inspired by his project.
 - Based off [neofetch](https://github.com/dylanaraps/neofetch) for the initial concept
-- Thanks to [OMDB API]https://www.omdbapi.com/) for film metadata
+- Thanks to [OMDB API](https://www.omdbapi.com/) for film metadata
