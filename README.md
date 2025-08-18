@@ -38,10 +38,10 @@ esac
 ### Build from source
 ```bash
 git clone https://github.com/yubaix/mofetch.git
-cd mufetch/
+cd mofetch/
 go build
-sudo mv mufetch /usr/local/bin/
-mufetch --help
+sudo mv mofetch /usr/local/bin/
+mofetch --help
 ```
 
 ## First-Time Authentication
